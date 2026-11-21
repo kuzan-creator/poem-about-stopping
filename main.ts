@@ -1,4 +1,5 @@
-// The Road Waited — A Poem About Stopping.
+// The Road Waited — A Poem About Stopping (266 characters, 9 lines).
+// One poem about agency: the power to stop, and to stay.
 // A program that writes one short poem about agency: the power to stop
 // and to stay. Deterministic, no network, no input.
 import { mkdirSync, writeFileSync } from "node:fs";
